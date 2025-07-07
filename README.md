@@ -10,7 +10,7 @@ He incluido varios proyectos y documentos que les servirán como base para pract
 ## 📚 Contenido disponible
 
 - 📗 *Libro de Electrónica teoría de circuitos y dispositivos electrónicos de Robert l. Boylestad, se utiliza los capitulos 1, 3, 4 y 5*
-- 📘 *Libro de Dipositivos electrónicos de Floyd, se utilizan los capitulos del 1 al 6. Para el libro de principios de electrónica de Alberto Malvino se utilizan los capitulos del 1 al 9.
+- 📘 *Libro de Dipositivos electrónicos de Floyd, se utilizan los capitulos del 1 al 6. Para el libro de Principios de electrónica de Albert Malvino se utilizan los capitulos del 1 al 9.
 - 📙 *Proyectos sugeridos*
 - 📓 *Revistas de cursos de electrónica básica*
 
