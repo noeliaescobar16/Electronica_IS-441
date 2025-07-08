@@ -13,7 +13,7 @@ He incluido varios proyectos y documentos que les servirán como base para pract
 - 📘 *Libro de Dipositivos electrónicos de Floyd, se utilizan los capitulos del 1 al 6. Para el libro de Principios de electrónica de Albert Malvino se utilizan los capitulos del 1 al 9.
 - 📙 *Proyectos sugeridos*
 - 📓 *Revistas de cursos de electrónica básica*
-
+- 📒 *En la carpeta de Documentos encontraran los pdf utilizados en la clase de electrónica*
 ---
 
 ## 📥 ¿Cómo descargar?
